@@ -8,13 +8,15 @@
 [![coverage:?](https://img.shields.io/coveralls/bubkoo/with-badges/master.svg?style=flat-square)](https://coveralls.io/github/bubkoo/with-badges)
 [![Package Quality](http://npm.packagequality.com/shield/with-badges.svg)](http://packagequality.com/#?package=with-badges)
 
+## Badge Services
 
-## Package Information
-   
-## Dependency Status
-   
-## Test Coverage
-   
-## Code Quality
+- [shields.io](http://shields.io/)
+- [forthebadge.com](http://forthebadge.com/)
+- [open-source-badges](https://github.com/ellerbrock/open-source-badges)
+- [nodei.co](https://nodei.co/)
+- [Package Quality](http://packagequality.com/)
+- [npm-version-badge](https://github.com/teelaunch/npm-version-badge)
+
+## Showcase
    
 
