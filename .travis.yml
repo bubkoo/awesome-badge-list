@@ -1,0 +1,21 @@
+sudo: false
+language: node_js
+node_js:
+  - 0.12
+  - 4
+  - 5
+
+cache:
+  directories:
+    - node_modules
+
+install: npm install
+
+env:
+- NODE_ENV=travis-ci
+
+script:
+  - npm test
+
+addons:
+  sauce_connect: true

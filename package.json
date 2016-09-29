@@ -1,0 +1,19 @@
+{
+  "name": "readme-badges",
+  "version": "0.0.0",
+  "description": "Showcase of awesome badges can be embedded into readme.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bubkoo <bubkoo.wy@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bubkoo/readme-badges.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bubkoo/readme-badges/issues"
+  },
+  "homepage": "https://github.com/bubkoo/readme-badges#readme"
+}
