@@ -16,16 +16,15 @@
 - [open-source-badges](https://github.com/ellerbrock/open-source-badges)
 - [package-quality](http://packagequality.com/)
 - [npm-version-badge](https://github.com/teelaunch/npm-version-badge)
+- [badge.fury.io](https://badge.fury.io/)
 
 ## Showcase
 
 ### Package Information
 
-| Service | Badges | Link |
-|---------|--------|------|
-|         |        |      |
-|         |        |      |
-|         |        |      |
+| Semantic Versioning (via [Shields.io](http://shields.io/)) |        |
+| Version (via [Shields.io](http://shields.io/)) | [![NPM version](https://img.shields.io/npm/v/with-badges.svg)](https://github.com/bubkoo/with-badges)      |
+|         |        |
 
 
 ## Contributing
