@@ -1,5 +1,5 @@
 {
-  "name": "readme-badges",
+  "name": "with-badges",
   "version": "0.0.0",
   "description": "Showcase of awesome badges can be embedded into readme.",
   "main": "index.js",
@@ -10,10 +10,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bubkoo/readme-badges.git"
+    "url": "git+https://github.com/bubkoo/with-badges.git"
   },
   "bugs": {
-    "url": "https://github.com/bubkoo/readme-badges/issues"
+    "url": "https://github.com/bubkoo/with-badges/issues"
   },
-  "homepage": "https://github.com/bubkoo/readme-badges#readme"
+  "homepage": "https://github.com/bubkoo/with-badges#readme"
 }
