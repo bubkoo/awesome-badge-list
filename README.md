@@ -22,7 +22,6 @@
 
 ### Package Information
 
-|   |   |
 |---|---|
 | Semantic Versioning (via [Shields.io](http://shields.io/)) |        |
 | Version (via [Shields.io](http://shields.io/)) | [![NPM version](https://img.shields.io/npm/v/with-badges.svg)](https://github.com/bubkoo/with-badges)      |
