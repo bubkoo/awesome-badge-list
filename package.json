@@ -1,7 +1,7 @@
 {
   "name": "with-badges",
   "version": "0.0.0",
-  "description": "Showcase of awesome badges can be embedded into readme.",
+  "description": "A collection awesome badges.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
