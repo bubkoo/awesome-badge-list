@@ -18,7 +18,19 @@
 - [npm-version-badge](https://github.com/teelaunch/npm-version-badge)
 
 ## Showcase
-   
+
+### Package Information
+
+| Service | Badges | Link |
+|---------|--------|------|
+|         |        |      |
+|         |        |      |
+|         |        |      |
 
 
+## Contributing
+
+Pull requests and stars are highly welcome.
+
+For bugs and feature requests, please [create an issue](https://github.com/bubkoo/with-badges/issues/new).
 
