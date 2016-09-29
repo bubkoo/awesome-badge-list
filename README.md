@@ -1,4 +1,4 @@
-# readme-badges <sup>[![Version Badge](http://versionbadg.es//bubkoo/with-badges.svg)](https://npmjs.org/package/with-badges)</sup>
+# with-badges <sup>[![Version Badge](http://versionbadg.es/bubkoo/with-badges.svg)](https://npmjs.org/package/with-badges)</sup>
 
 > Showcase of awesome badges can be embedded into readme.
 
