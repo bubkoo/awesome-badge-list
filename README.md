@@ -23,7 +23,7 @@
 ### Package Information
 
 - Semantic Versioning (via [Shields.io](http://shields.io/))
-- Version (via [Shields.io](http://shields.io/)) [![NPM version](https://img.shields.io/npm/v/with-badges.svg?style=flat-square)](https://github.com/bubkoo/with-badges) [![Bower version](https://img.shields.io/bower/v/with-badges.svg?style=flat-square)](https://github.com/bubkoo/with-badges)
+- Version (via [Shields.io](http://shields.io/)) [![NPM Version](https://img.shields.io/npm/v/with-badges.svg?style=flat-square)](https://github.com/bubkoo/with-badges) [![Bower Version](https://img.shields.io/bower/v/with-badges.svg?style=flat-square)](https://github.com/bubkoo/with-badges) [![Github Tag](https://img.shields.io/github/tag/bubkoo/with-badges.svg?style=flat-square)](https://github.com/bubkoo/with-badges/tags) [![Github Release](https://img.shields.io/github/release/bubkoo/with-badges.svg?style=flat-square)](https://github.com/bubkoo/with-badges/releases)
 
 
 ## Contributing
