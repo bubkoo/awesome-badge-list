@@ -16,26 +16,46 @@
 - [package-quality](http://packagequality.com/)
 - [npm-version-badge](https://github.com/teelaunch/npm-version-badge)
 - [badge.fury.io](https://badge.fury.io/)
+- [poser.pugx.org](https://poser.pugx.org/)
 
 ## Showcase
 
+### Build
+
+### Downloads
+
 ### Version
 
-#### Version sub badge([npm-version-badge](https://github.com/teelaunch/npm-version-badge)) <sup>[![Version Badge](http://versionbadg.es/bubkoo/with-badges.svg)](https://npmjs.org/package/with-badges)<sup>
+#### Version sub with model name ([npm-version-badge](https://github.com/teelaunch/npm-version-badge)) <sup>[![Version Badge](http://versionbadg.es/bubkoo/with-badges.svg)](https://npmjs.org/package/with-badges)<sup>
 
 #### Version ([Shields.io](http://shields.io/)) 
 
-[![NPM Version](https://img.shields.io/npm/v/with-badges.svg?style=flat-square)](https://github.com/bubkoo/with-badges)
-[![Bower Version](https://img.shields.io/bower/v/with-badges.svg?style=flat-square)](https://github.com/bubkoo/with-badges)
+[![NPM Version](https://img.shields.io/npm/v/with-badges.svg?style=flat-square)](https://www.npmjs.com/package/with-badges)
+[![Node Version](https://img.shields.io/node/v/with-badges.svg?style=flat-square)](https://www.npmjs.com/package/with-badges)
+[![Bower Version](https://img.shields.io/bower/v/with-badges.svg?style=flat-square)](https://bower.io/search/?q=with-badges)
 [![Github Tag](https://img.shields.io/github/tag/bubkoo/with-badges.svg?style=flat-square)](https://github.com/bubkoo/with-badges/tags)
 [![Github Release](https://img.shields.io/github/release/bubkoo/with-badges.svg?style=flat-square)](https://github.com/bubkoo/with-badges/releases)
 
-#### Semantic Versioning (via [Shields.io](http://shields.io/))
+#### Semantic Versioning ([Shields.io](http://shields.io/))
 
 ### Licence
 
-[![MIT License](https://img.shields.io/badge/license-MIT_License-green.svg?style=flat-square)](https://github.com/bubkoo/with-badges/blob/master/LICENSE)
+#### Licence ([Shields.io](http://shields.io/)) 
 
+[![MIT License](https://img.shields.io/badge/license-MIT_License-green.svg?style=flat-square)](https://github.com/bubkoo/with-badges/blob/master/LICENSE)
+[![Bower License](https://img.shields.io/bower/l/with-badges.svg?style=flat-square)](https://bower.io/search/?q=with-badges)
+
+#### Open Source Licences Badges
+
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://github.com/bubkoo/with-badges/blob/master/LICENSE)
+[![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.svg?v=103)](https://opensource.org/licenses/GPL-3.0/)  
+
+
+
+
+### Social
+
+### Miscellaneous
 
 
 ## Contributing
