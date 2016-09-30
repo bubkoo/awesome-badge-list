@@ -51,10 +51,12 @@
 ### Licence
 
 - [shields.io](http://shields.io/)
+  
   [![MIT License](https://img.shields.io/badge/license-MIT_License-green.svg?style=flat-square)](https://github.com/bubkoo/with-badges/blob/master/LICENSE)
   [![Bower License](https://img.shields.io/bower/l/with-badges.svg?style=flat-square)](https://bower.io/search/?q=with-badges)
 
 - [open-source-badges](https://github.com/ellerbrock/open-source-badges)
+  
   [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://github.com/bubkoo/with-badges/blob/master/LICENSE)
   [![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.svg?v=103)](https://opensource.org/licenses/GPL-3.0/)  
 
