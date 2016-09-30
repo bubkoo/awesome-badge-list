@@ -29,11 +29,7 @@
 | Service | Badges |
 | ------- | ------ |
 | [npm-version-badge](https://github.com/teelaunch/npm-version-badge) | [![Version Badge](http://versionbadg.es/bubkoo/with-badges.svg)](https://npmjs.org/package/with-badges) |
-| [Shields.io](http://shields.io/) | [![NPM Version](https://img.shields.io/npm/v/with-badges.svg?style=flat-square)](https://www.npmjs.com/package/with-badges)
-[![Node Version](https://img.shields.io/node/v/with-badges.svg?style=flat-square)](https://www.npmjs.com/package/with-badges)
-[![Bower Version](https://img.shields.io/bower/v/with-badges.svg?style=flat-square)](https://bower.io/search/?q=with-badges)
-[![Github Tag](https://img.shields.io/github/tag/bubkoo/with-badges.svg?style=flat-square)](https://github.com/bubkoo/with-badges/tags)
-[![Github Release](https://img.shields.io/github/release/bubkoo/with-badges.svg?style=flat-square)](https://github.com/bubkoo/with-badges/releases) |
+| [Shields.io](http://shields.io/) | [![NPM Version](https://img.shields.io/npm/v/with-badges.svg?style=flat-square)](https://www.npmjs.com/package/with-badges)[![Node Version](https://img.shields.io/node/v/with-badges.svg?style=flat-square)](https://www.npmjs.com/package/with-badges)[![Bower Version](https://img.shields.io/bower/v/with-badges.svg?style=flat-square)](https://bower.io/search/?q=with-badges)[![Github Tag](https://img.shields.io/github/tag/bubkoo/with-badges.svg?style=flat-square)](https://github.com/bubkoo/with-badges/tags)[![Github Release](https://img.shields.io/github/release/bubkoo/with-badges.svg?style=flat-square)](https://github.com/bubkoo/with-badges/releases) |
 |||
 
 
