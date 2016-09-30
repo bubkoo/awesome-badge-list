@@ -2,11 +2,6 @@
 
 > A collection awesome badges.
 
-
-[![build:?](https://img.shields.io/travis/bubkoo/with-badges/master.svg?style=flat-square)](https://travis-ci.org/bubkoo/with-badges)
-[![coverage:?](https://img.shields.io/coveralls/bubkoo/with-badges/master.svg?style=flat-square)](https://coveralls.io/github/bubkoo/with-badges)
-[![Package Quality](http://npm.packagequality.com/shield/with-badges.svg)](http://packagequality.com/#?package=with-badges)
-
 ## Badge Services
 
 - [shields.io](http://shields.io/)
@@ -17,10 +12,14 @@
 - [npm-version-badge](https://github.com/teelaunch/npm-version-badge)
 - [badge.fury.io](https://badge.fury.io/)
 - [poser.pugx.org](https://poser.pugx.org/)
+- [badginator](https://github.com/defunctzombie/badginator)
 
 ## Showcase
 
 ### Build
+
+[![build:?](https://img.shields.io/travis/bubkoo/with-badges/master.svg?style=flat-square)](https://travis-ci.org/bubkoo/with-badges)
+[![coverage:?](https://img.shields.io/coveralls/bubkoo/with-badges/master.svg?style=flat-square)](https://coveralls.io/github/bubkoo/with-badges)
 
 ### Downloads
 
@@ -64,7 +63,11 @@
 
 ### Miscellaneous
 
+[![Package Quality](http://npm.packagequality.com/shield/with-badges.svg)](http://packagequality.com/#?package=with-badges)
+
 [![Awesome](https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed57b641674f94/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667)](https://github.com/sindresorhus/awesome)
+
+[![BADGINATOR](https://badginator.herokuapp.com/bubkoo/with-badges.svg)](https://github.com/bubkoo/with-badges)
 
 
 ## Contributing
