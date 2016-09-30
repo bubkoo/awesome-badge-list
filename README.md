@@ -54,13 +54,13 @@
 
 > via [shields.io](http://shields.io/)
 
-[![GitHub forks](https://img.shields.io/github/forks/bubkoo/with-badges.svg?style=social&label=Fork?style=flat-square)](https://github.com/bubkoo/with-badges#fork-destination-box)
-[![GitHub stars](https://img.shields.io/github/stars/bubkoo/with-badges.svg?style=social&label=Star?style=flat-square)](https://github.com/bubkoo/with-badges/stargazers)
-[![GitHub watchers](https://img.shields.io/github/watchers/bubkoo/with-badges.svg?style=social&label=Watch?style=flat-square)](https://github.com/bubkoo/with-badges/watchers)
-[![GitHub followers](https://img.shields.io/github/followers/bubkoo.svg?style=social&label=Follow?style=flat-square)](https://github.com/bubkoo?tab=followers)
+[![GitHub forks](https://img.shields.io/github/forks/bubkoo/with-badges.svg?style=social&label=Fork&maxAge=2592000?style=flat-square)](https://github.com/bubkoo/with-badges#fork-destination-box)
+[![GitHub stars](https://img.shields.io/github/stars/bubkoo/with-badges.svg?style=social&label=Star&maxAge=2592000?style=flat-square)](https://github.com/bubkoo/with-badges/stargazers)
+[![GitHub watchers](https://img.shields.io/github/watchers/bubkoo/with-badges.svg?style=social&label=Watch&maxAge=2592000?style=flat-square)](https://github.com/bubkoo/with-badges/watchers)
+[![GitHub followers](https://img.shields.io/github/followers/bubkoo.svg?style=social&label=Follow&maxAge=2592000?style=flat-square)](https://github.com/bubkoo?tab=followers)
 
-[![Twitter URL](https://img.shields.io/twitter/url/http/bubkoo.svg?style=social?style=flat-square)](https://twitter.com/bubkoo)
-[![Twitter Follow](https://img.shields.io/twitter/follow/bubkoo.svg?style=social&label=Follow?style=flat-square)](https://twitter.com/bubkoo/followers)
+[![Twitter URL](https://img.shields.io/twitter/url/http/bubkoo.svg?style=social&maxAge=2592000?style=flat-square)](https://twitter.com/bubkoo)
+[![Twitter Follow](https://img.shields.io/twitter/follow/bubkoo.svg?style=social&label=Follow&maxAge=2592000?style=flat-square)](https://twitter.com/bubkoo/followers)
 
 ### Miscellaneous
 
