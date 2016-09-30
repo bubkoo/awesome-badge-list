@@ -1,0 +1,14 @@
+{
+  "name": "with-badges",
+  "version": "0.0.1",
+  "description": "A collection awesome badges.",
+  "homepage": "https://github.com/bubkoo/with-badges",
+  "authors": [
+    "bubkoo.wy"
+  ],
+  "main": "src/index.js",
+  "keywords": [
+    "badges"
+  ],
+  "license": "MIT"
+}
