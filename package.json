@@ -10,10 +10,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bubkoo/with-badges.git"
+    "url": "git+https://github.com/bubkoo/awesome-badge-list.git"
   },
   "bugs": {
-    "url": "https://github.com/bubkoo/with-badges/issues"
+    "url": "https://github.com/bubkoo/awesome-badge-list/issues"
   },
-  "homepage": "https://github.com/bubkoo/with-badges#readme"
+  "homepage": "https://github.com/bubkoo/awesome-badge-list#readme"
 }
