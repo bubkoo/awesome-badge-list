@@ -1,6 +1,6 @@
 {
-  "name": "with-badges",
-  "version": "0.0.0",
+  "name": "awesome-badge-list",
+  "version": "1.0.0",
   "description": "A collection awesome badges.",
   "main": "index.js",
   "scripts": {
